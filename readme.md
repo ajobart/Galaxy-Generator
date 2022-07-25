@@ -1,6 +1,6 @@
 # Galaxy Generator
 
-![Uploading CleanShot 2022-07-25 at 12.51.44@2x.png…]()
+![Uploading CleanShot 2022-07-25 at 12.51.44@2x.png…](https://github.com/ajobart/Galaxy-Generator/illustration.png)
 
 
 ## Setup
