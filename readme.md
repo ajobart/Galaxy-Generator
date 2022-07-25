@@ -1,7 +1,6 @@
 # Galaxy Generator
 
-![Illustration](https://github.com/ajobart/Galaxy-Generator/illustration.png)
-
+<img width="1440" alt="Capture d’écran 2022-03-11 à 10 46 31" src="https://github.com/ajobart/Galaxy-Generator/blob/master/illustration.png?raw=true">
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
