@@ -1,4 +1,6 @@
-# Three.js Journey
+# Galaxy Generator
+
+![Uploading CleanShot 2022-07-25 at 12.45.43@2x.png…]()
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
